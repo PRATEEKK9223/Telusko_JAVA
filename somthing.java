@@ -35,8 +35,6 @@ public class somthing {
         System.out.println(obj1.hashCode()==obj2.hashCode());
 
         System.out.println(obj1.equals(obj2));
-        System.out.println(obj1.equals(obj2));
-
     }
     
 }
