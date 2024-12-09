@@ -32,6 +32,8 @@ public class somthing {
         System.out.println(obj2.toString());
 
         System.out.println(obj1.getClass());
+        System.out.println(obj1.hashCode());
+        System.out.println(obj2.hashCode());
         System.out.println(obj1.hashCode()==obj2.hashCode());
 
         System.out.println(obj1.equals(obj2));
