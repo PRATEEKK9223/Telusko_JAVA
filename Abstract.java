@@ -1,6 +1,9 @@
 abstract class Car{
+    int var=100;
     public abstract void drive();
     public abstract void fly();
+
+
 }
 
 class toyoto extends Car{
