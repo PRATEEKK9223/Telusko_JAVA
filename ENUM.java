@@ -33,6 +33,11 @@ public class ENUM {
         bikes obj1=bikes.honda;
         System.out.println(obj1+":"+obj1.getPrice());
 
+        bikes value[] =bikes.values();
+
+        for(bikes p:value)
+        System.out.println(p);
+
 
 
 
