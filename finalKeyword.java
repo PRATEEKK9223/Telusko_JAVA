@@ -1,5 +1,5 @@
 //this class can not extend that anywhere
-final class laptop{
+ final class laptop{
     final int price =1000;
     int code=45;
 
